@@ -17,7 +17,8 @@ A simple and responsive currency converter app that allows users to convert betw
 - [ExchangeRate API](https://www.exchangerate-api.com/)
 
 ## 📷 Screenshots
-![<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/b7136a62-b6f6-45fa-835c-8f1ca02a5db2" />](./screenshot.png)
+
+<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/746d4db5-640d-4c76-905e-1437d2c230b4" />
 
 ## 📦 How to Run Locally
 git clone https://github.com/AtharvaSagane/currency-converter.git
