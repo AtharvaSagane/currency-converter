@@ -3,7 +3,7 @@
 A simple and responsive currency converter app that allows users to convert between different currencies using real-time exchange rates.
 
 ## 🌐 Live Demo
-[Visit on Netlify]([https://magnificent-creponne-51300d.netlify.app/](https://currency-converter-by-atharva.netlify.app/))
+[Visit on Netlify]((https://currency-converter-by-atharva.netlify.app/))
 
 ## 🚀 Features
 - Convert between currencies (e.g., INR to USD)
